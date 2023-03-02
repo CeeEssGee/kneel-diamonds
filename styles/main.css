@@ -32,3 +32,10 @@ ul {
     font-size: 1rem;
 }
 
+#container {
+  display: flexbox;
+}
+
+.choices {
+  display: flex
+}
